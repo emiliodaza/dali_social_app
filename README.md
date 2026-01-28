@@ -5,6 +5,13 @@ This repository contains a **prototype and technical proposal** for a social pla
 This is **not a finished product**. It is a work-in-progress prototype shared transparently for evaluation.
 
 ## Current State of the Prototype
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/5c0954ae-49e3-4e65-a1d9-5e7c38066f7d" />
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/7a020a87-82e3-434f-99f3-f1f5a11c120f" />
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/7f5d1cb5-1a58-445f-813b-00c657f6fcb8" />
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/20f4071d-6c97-4a06-a5ab-9a5f7c2bc24c" />
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/e579ef52-e9ae-4136-8cb0-d8a816e126b0" />
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/9ee800ba-b3d6-4591-a4e0-e4ad85a9a30e" />
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/3568613a-f22d-4a2d-9582-a66f5aec8a2c" />
 
 ### Implemented and Working
 - **User registration:** Fully functional.
