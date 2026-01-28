@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417706160769",
+    "project_id": "dalisocial-d92cc",
+    "storage_bucket": "dalisocial-d92cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417706160769:android:78373a867b48641614d380",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdV_PahvQLHRjPvmba1vXnfZ5h2roY1xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

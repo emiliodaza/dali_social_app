@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "dalisocial-d92cc",
+          "appId": "1:417706160769:android:78373a867b48641614d380",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "dalisocial-d92cc",
+          "configurations": {
+            "android": "1:417706160769:android:78373a867b48641614d380",
+            "ios": "1:417706160769:ios:40b7c9b93959bba614d380",
+            "macos": "1:417706160769:ios:40b7c9b93959bba614d380",
+            "web": "1:417706160769:web:5eda9f9b5926e33714d380",
+            "windows": "1:417706160769:web:9ebad4f8f246da3414d380"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
